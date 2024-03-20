@@ -12,7 +12,7 @@ This Python script records video from a webcam and saves it to a file. The recor
 1. Set the `output_dir` variable to the directory where you want to save the video file.
 
 ```python
-output_dir = r'E:\jorbanicus\Werk9.0 - Webcam Record and Save'
+output_dir = r'C:\path\to\your\output\folder'
 ```
 
 2. Set the start_time and end_time variables to the time range during which you want to record video.
