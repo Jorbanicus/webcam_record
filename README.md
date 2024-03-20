@@ -38,5 +38,7 @@ This script performs the following steps:
  
 The output is a video file in the specified directory, with the video recorded from the webcam during the specified time range.
 
+
 Output:
-![Output](./output.JPG)
+
+![Output](./Output.JPG)
